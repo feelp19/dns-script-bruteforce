@@ -1,0 +1,3 @@
+Como usar ?
+1.Conceder acesso ao arquivo no seu Kali Linux (chmod +x NOME_ARQUIVO)
+2. Executar arquivo na pasta onde foi baixado(./nome_arquivo ALVO) -> ./dns-bruteforce www.com.br
